@@ -32,6 +32,9 @@ Contributions are welcome! Feel free to fork this repo and create a pull request
 # 👩‍💻 Made By
 - **Sree Bhattacharya**  
   🎮 Passionate about coding, games, and AI logic.  
-  🌟 Follow me on GitHub for more projects!  
+  🌟 Follow me on GitHub for more projects!
+
+# ⭐ Support
+If you like this project, give it a star ⭐ on GitHub — it really motivates me to keep building!
 
 
