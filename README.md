@@ -19,7 +19,8 @@ The AI will respond with strategic counter moves.
 First to align 3 in a row (horizontal, vertical, diagonal) wins!
 
 # 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 
