@@ -26,4 +26,12 @@ This project is licensed under the [MIT License](./LICENSE).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
+# 🤝 Contributing
+Contributions are welcome! Feel free to fork this repo and create a pull request.
+
+# 👩‍💻 Made By
+- **Sree Bhattacharya**  
+  🎮 Passionate about coding, games, and AI logic.  
+  🌟 Follow me on GitHub for more projects!  
+
 
