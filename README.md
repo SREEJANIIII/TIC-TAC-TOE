@@ -19,7 +19,7 @@ The AI will respond with strategic counter moves.
 First to align 3 in a row (horizontal, vertical, diagonal) wins!
 
 # Sample
-TicTacToe-Demo.png
+![Game Screenshot](TicTacToe-Demo.png)
 
 # 📜 License
 This project is licensed under the [MIT License](./LICENSE).
