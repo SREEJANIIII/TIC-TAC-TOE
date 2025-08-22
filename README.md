@@ -9,7 +9,7 @@ Welcome to my custom Tic-Tac-Toe game, where you take on an unbeatable AI that p
 ✅ Unbeatable logic — good luck winning!
 
 # 🛠️ How to Run
-On Replit:
+[![Run on Replit](https://replit.com/badge/github/bhattacharyasre/TicTacToe)](https://replit.com/@bhattacharyasre/TicTacToe?v=1)
 Open the project on Replit
 Click ▶️ Run and play in the console.
 
