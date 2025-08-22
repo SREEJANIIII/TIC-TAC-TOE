@@ -18,6 +18,9 @@ The position guide (1–9) will help you choose where to play.
 The AI will respond with strategic counter moves.
 First to align 3 in a row (horizontal, vertical, diagonal) wins!
 
+# Sample
+TicTacToe-Demo.png
+
 # 📜 License
 This project is licensed under the [MIT License](./LICENSE).
 
