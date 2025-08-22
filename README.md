@@ -3,9 +3,13 @@ Welcome to my custom Tic-Tac-Toe game, where you take on an unbeatable AI that p
 
 # 🚀 Features
 🎭 Human vs AI gameplay
+
 🧠 AI with early move strategies
+
 🛡️ Threat detection + fork prevention
+
 🎨 Colorful console messages & emojis 
+
 ✅ Unbeatable logic — good luck winning!
 
 # 🛠️ How to Run
